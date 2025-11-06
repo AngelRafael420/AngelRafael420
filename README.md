@@ -49,7 +49,7 @@ Aquí hay algunos de mis proyectos más recientes y emocionantes:
 
 * **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/angelrafael-sarmiento-marte-117578297/)
 * **Correo Electrónico:** [Tu Correo Electrónico]
-* **Twitter (opcional):** [Tu Perfil de Twitter]
+* **Twitter (opcional):** [###]
 
 ---
 
@@ -58,9 +58,6 @@ Aquí hay algunos de mis proyectos más recientes y emocionantes:
 Siempre estoy abierto a nuevas ideas y oportunidades de colaboración. Si tienes un proyecto interesante o simplemente quieres charlar sobre tecnología, no dudes en contactarme.
 
 ---
-
-Este README está diseñado para ser visualmente atractivo y fácil de leer. ¡Espero que te sea muy útil! Aquí tienes una imagen relacionada con la programación: 
-```http://googleusercontent.com/image_generation_content/0
 
 ````
 
