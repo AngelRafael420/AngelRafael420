@@ -1,5 +1,4 @@
 
-markdown
 # ¡Hola! Soy Angel Rafael Sarmiento Marte 🚀
 
 ### Desarrollador de Software | Entusiasta de la Tecnología
