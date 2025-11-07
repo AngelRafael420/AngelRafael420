@@ -1,4 +1,3 @@
-Aquí tienes un ejemplo de un `README.md` que puedes usar para tu perfil de GitHub. Incluye un diseño limpio, secciones clave y placeholders para la información que quieras añadir.
 
 markdown
 # ¡Hola! Soy Angel Rafael Sarmiento Marte 🚀
