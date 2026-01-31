@@ -45,7 +45,7 @@ Aquí hay algunos de mis proyectos más recientes y emocionantes:
 
 ¡Me encantaría conectar contigo!
 
-* **LinkedIn:** www.linkedin.com/in/angel-marte-767b14274
+* **LinkedIn:** www.linkedin.com/in/angel-rafael-sarmiento-marte-767b14274
 * **Correo Electrónico:** [Asarmientomarte@gmail.com]
 * **Twitter:** [###]
 
