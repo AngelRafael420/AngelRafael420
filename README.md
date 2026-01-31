@@ -30,7 +30,7 @@ Soy un apasionado desarrollador de software con experiencia en la creación de a
 Aquí hay algunos de mis proyectos más recientes y emocionantes:
 
 * **Portafolio ReactApp:** Una aplicación de portafolio personal construida con React, mostrando mis habilidades y proyectos.
-    * [https://github.com/AngelRafael420/Portafolio_ReactApp](https://github.com/AngelRafa420/PortafolioReactApp)
+    * https://github.com/AngelRafael420/Portafolio_ReactApp
     * [Ver Demo (si aplica)](https://angelrafa420.github.io/PortafolioReactApp/)
 
 * **La-calculadora-2.0:** Una práctica de una calculadora simple, demostrando mis habilidades en C#.
