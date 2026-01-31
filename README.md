@@ -34,10 +34,10 @@ Aquí hay algunos de mis proyectos más recientes y emocionantes:
     * [Ver Demo (si aplica)](https://angelrafa420.github.io/PortafolioReactApp/)
 
 * **La-calculadora-2.0:** Una práctica de una calculadora simple, demostrando mis habilidades en C#.
-    * [Enlace al Repositorio](https://github.com/AngelRafa420/La-calculadora-2.0)
+    * https://github.com/AngelRafael420/La-calculadora-2.0
 
 * **Agenda de Contactos ReactApp:** Una aplicación para gestionar contactos, desarrollada con React.
-    * [Enlace al Repositorio](https://github.com/AngelRafa420/Agendade-contacto-ReactApp)
+    * https://github.com/AngelRafael420/Angenda_de-contacto_ReactApp
 
 ---
 
